@@ -3,8 +3,7 @@
  - Cricket
  - Chess
  - Fitness
- ## Technical Background
+## Technical Background
   - Javascript
   - UI Development
-  - Frontend Development
-   (https://images.app.goo.gl/5cEGNUsKzjRZX4vk8)
+  - Frontend Development (https://images.app.goo.gl/5cEGNUsKzjRZX4vk8)
